@@ -1,0 +1,6 @@
+{
+  "name": "Maddy AI",
+  "description": "Production-ready modern AI chatbot powered by Google Gemini API with real-time streaming, conversation memory, code syntax highlighting, and customizable parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
